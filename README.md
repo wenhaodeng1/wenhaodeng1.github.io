@@ -1,1 +1,1 @@
-# -
+AddType text/javascript .jsd
