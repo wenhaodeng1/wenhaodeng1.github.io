@@ -1,0 +1,89 @@
+body.wap,
+html.wap {
+  overflow: auto;
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior: none;
+  position: fixed;
+}
+body > #root {
+  z-index: 9999999;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+}
+
+html {
+  font-size: 14px;
+}
+
+#root > .main {
+  opacity: 0;
+}
+
+#native-loading {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  z-index: -9 !important;
+}
+
+/* 新的loading */
+.loading-panel {
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 100;
+}
+
+.loading-panel .loading-logo {
+  position: fixed;
+  /* z-index: 99999; */
+  opacity: 0.3;
+  width: 200px;
+  transform: scale(1.2);
+  animation: breath 3.2s ease-in-out infinite;
+}
+
+.fuzzy-loading-tip {
+  font-size: 14px;
+  color: rgba(31, 41, 61, 1);
+  line-height: 18px;
+  margin-top: 12px;
+  opacity: 0.3;
+  animation: breath 3.2s ease-in-out infinite;
+}
+
+.hljs *[class^="language-"] {
+  font-family: "Monaco", "DejaVu Sans Mono" !important;
+}
+
+@keyframes breath {
+  50% {
+    opacity: 0.65;
+  }
+}
+
+.loading-panel .loading {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background: rgb(235, 236, 237);
+}
+/* 隐藏谷歌验证的小部件 */
+.grecaptcha-badge {
+  display: none;
+}
