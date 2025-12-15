@@ -1,0 +1,53 @@
+<view class="grzy-flex-col page">
+  <view class="grzy-flex-row grzy-justify-between grzy-items-center grzy-self-start group">
+    <text class="font text">thing nothing not even nothing</text>
+    <view class="grzy-flex-row grzy-items-center">
+      <view class="grzy-flex-row grzy-shrink-0">
+        <text class="font_2 text_2">projects</text>
+        <text class="font_2 text_3 ml-97">blog</text>
+      </view>
+      <text class="font_2 text_4 ml-129">CV</text>
+    </view>
+  </view>
+  <view class="grzy-self-start divider"></view>
+  <view class="grzy-flex-col grzy-self-stretch group_2">
+    <view class="grzy-flex-row grzy-items-end group_3">
+      <view class="grzy-flex-col group_4">
+        <image
+          class="grzy-self-stretch image"
+          src="https://ide.code.fun/api/image?token=693ff4b19520a30011f84f2f&name=28315dda3ac48fde2cca8d9773a3299b.png"
+        />
+        <text class="grzy-mt-18 grzy-self-stretch font">Wenhao Deng</text>
+        <text class="grzy-mt-18 grzy-self-start font_4">student</text>
+      </view>
+      <view class="grzy-flex-col grzy-items-start grzy-flex-1 ml-97">
+        <text class="font_3 text_5">Beautiful every day;discontinuous existence</text>
+        <text class="font_3 text_6 mt-33">
+          All physical motion in this world is discontinuous, all macroscopic events are governed by laws, free will may
+          just be a hoax, or perhaps we are merely acting out a movie for the audience.
+        </text>
+      </view>
+    </view>
+    <view class="grzy-mt-20 grzy-flex-row grzy-items-center">
+      <image
+        class="image_2"
+        src="https://ide.code.fun/api/image?token=693ff4b19520a30011f84f2f&name=2a0785c774357f2f426e92ca5f1186b9.png"
+      />
+      <text class="font_4 text_7 ml-3">hunan,china</text>
+    </view>
+    <view class="grzy-mt-20 grzy-flex-row grzy-items-center group_5">
+      <image
+        class="image_2"
+        src="https://ide.code.fun/api/image?token=693ff4b19520a30011f84f2f&name=576a3e91684a1ca23f932d08f2be466d.png"
+      />
+      <text class="font_4">Email</text>
+    </view>
+    <view class="grzy-mt-20 grzy-flex-row grzy-items-center group_6">
+      <image
+        class="image_2"
+        src="https://ide.code.fun/api/image?token=693ff4b19520a30011f84f2f&name=d066d82397fc124c2e9a94adcd7bfc94.png"
+      />
+      <text class="font_4 text_8">GitHub</text>
+    </view>
+  </view>
+</view>

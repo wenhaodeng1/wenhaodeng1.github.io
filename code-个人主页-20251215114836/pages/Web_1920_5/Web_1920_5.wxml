@@ -1,0 +1,47 @@
+<view class="grzy-flex-col page">
+  <view class="grzy-flex-row grzy-items-center group view">
+    <text class="grzy-shrink-0 font text">thing nothing not even nothing</text>
+    <text class="grzy-shrink-0 text_2 ml-1577">projects</text>
+  </view>
+  <view class="grzy-flex-row group_2">
+    <image
+      class="grzy-shrink-0 image"
+      src="https://ide.code.fun/api/image?token=693ff4b19520a30011f84f2f&name=28315dda3ac48fde2cca8d9773a3299b.png"
+    />
+    <text class="grzy-self-start font_2 text_3 ml-67">about me</text>
+  </view>
+  <view class="grzy-flex-col group_3">
+    <view class="grzy-flex-row grzy-items-start group view_2">
+      <view class="grzy-flex-col grzy-shrink-0 group_4">
+        <text class="grzy-self-stretch font">Wenhao Deng</text>
+        <text class="grzy-mt-16 grzy-self-start font_3">student</text>
+      </view>
+      <text class="grzy-shrink-0 font_2 text_4 ml-879">
+        I've loved playing games since I was a child.When I was a child, I would play all sorts of games whenever I had
+        free time, which led me to develop a strong interest in game creation.When I was twelve, I taught myself the
+        BASIC language using a Commodore VIC-20 computer, and then used it to create Blastar.
+      </text>
+    </view>
+    <view class="grzy-mt-18 grzy-flex-row grzy-items-center">
+      <image
+        class="image_2"
+        src="https://ide.code.fun/api/image?token=693ff4b19520a30011f84f2f&name=2a0785c774357f2f426e92ca5f1186b9.png"
+      />
+      <text class="font_3 text_5 ml-3">hunan,china</text>
+    </view>
+    <view class="grzy-mt-18 grzy-flex-row grzy-items-center group_5">
+      <image
+        class="image_2"
+        src="https://ide.code.fun/api/image?token=693ff4b19520a30011f84f2f&name=576a3e91684a1ca23f932d08f2be466d.png"
+      />
+      <text class="font_3">Email</text>
+    </view>
+    <view class="grzy-mt-18 grzy-flex-row grzy-items-center group_6">
+      <image
+        class="image_2"
+        src="https://ide.code.fun/api/image?token=693ff4b19520a30011f84f2f&name=d066d82397fc124c2e9a94adcd7bfc94.png"
+      />
+      <text class="font_3 text_6">GitHub</text>
+    </view>
+  </view>
+</view>

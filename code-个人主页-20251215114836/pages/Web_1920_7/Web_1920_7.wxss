@@ -1,0 +1,105 @@
+.ml-97 {
+  margin-left: 37.89rpx;
+}
+.ml-129 {
+  margin-left: 50.39rpx;
+}
+.mt-33 {
+  margin-top: 12.89rpx;
+}
+.ml-3 {
+  margin-left: 1.17rpx;
+}
+.page {
+  padding-bottom: 263.67rpx;
+  background-color: #ffffff;
+  width: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+  height: 100%;
+}
+.group {
+  margin-left: 3.13rpx;
+  padding: 5.47rpx 0;
+  width: 334.32rpx;
+}
+.font {
+  font-size: 7.81rpx;
+  font-family: SourceHanSansCN;
+  line-height: 9.38rpx;
+  color: #000000;
+}
+.text {
+  width: 101.56rpx;
+}
+.font_2 {
+  font-size: 9.38rpx;
+  font-family: SourceHanSansCN;
+  color: #000000;
+}
+.text_2 {
+  line-height: 9.54rpx;
+}
+.text_3 {
+  line-height: 9.8rpx;
+}
+.text_4 {
+  line-height: 7.12rpx;
+}
+.divider {
+  background-color: #808080;
+  width: 752.73rpx;
+  height: 0.39rpx;
+}
+.group_2 {
+  margin-top: 5.47rpx;
+  padding: 0 32.03rpx;
+}
+.group_3 {
+  padding: 0 0.78rpx;
+}
+.group_4 {
+  margin-bottom: 3.91rpx;
+  width: 49.81rpx;
+}
+.image {
+  margin-right: 1.56rpx;
+  border-radius: 50%;
+  width: 48.05rpx;
+  height: 48.05rpx;
+}
+.font_4 {
+  font-size: 6.25rpx;
+  font-family: SourceHanSansCN;
+  line-height: 5.05rpx;
+  color: #383838;
+}
+.font_3 {
+  font-size: 11.72rpx;
+  font-family: SourceHanSansCN;
+  line-height: 14.06rpx;
+  color: #000000;
+}
+.text_5 {
+  margin-left: 0.78rpx;
+  width: 225.78rpx;
+}
+.text_6 {
+  width: 259.38rpx;
+}
+.image_2 {
+  width: 9.38rpx;
+  height: 9.38rpx;
+}
+.text_7 {
+  line-height: 6.16rpx;
+}
+.group_5 {
+  padding: 0 1.95rpx;
+}
+.group_6 {
+  padding: 0 1.56rpx;
+}
+.text_8 {
+  color: #000000;
+}
