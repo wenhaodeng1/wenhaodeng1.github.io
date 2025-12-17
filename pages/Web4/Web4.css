@@ -1,0 +1,105 @@
+.ml-102 {
+  margin-left: 102px;
+}
+.ml-134 {
+  margin-left: 134px;
+}
+.ml-5 {
+  margin-left: 5px;
+}
+.page {
+  padding-bottom: 132px;
+  background-color: #ffffff;
+  width: 100%;
+  overflow-y: auto;
+  overflow-x: hidden;
+  height: 100%;
+}
+.group {
+  margin-left: 8px;
+  padding: 10px 0 18px;
+  width: 857.5px;
+}
+.font {
+  font-size: 20px;
+  font-family: SourceHanSans;
+  line-height: 29px;
+  color: #000000;
+}
+.text {
+  width: 241px;
+}
+.font_2 {
+  font-size: 24px;
+  font-family: SourceHanSans;
+  line-height: 22.5px;
+  color: #000000;
+}
+.text_2 {
+  line-height: 23px;
+}
+.text_3 {
+  line-height: 17.5px;
+}
+.divider {
+  background-color: #808080;
+  width: 1927px;
+  height: 1px;
+}
+.group_2 {
+  margin-left: 84px;
+  margin-top: 12px;
+}
+.group_3 {
+  width: 123px;
+}
+.image {
+  border-radius: 50%;
+  width: 123px;
+  height: 123px;
+}
+.text_4 {
+  margin-top: 14px;
+}
+.font_3 {
+  font-size: 16px;
+  font-family: SourceHanSans;
+  line-height: 12px;
+  color: #383838;
+}
+.text_5 {
+  margin-top: 14px;
+}
+.group_4 {
+  margin-top: 32px;
+}
+.image_3 {
+  width: 18px;
+  height: 22px;
+}
+.text_6 {
+  line-height: 14.5px;
+}
+.group_5 {
+  margin-top: 24px;
+  padding: 0 5px;
+}
+.image_4 {
+  width: 18px;
+  height: 16px;
+}
+.group_6 {
+  margin-top: 26px;
+  padding: 0 4px;
+}
+.image_5 {
+  width: 17px;
+  height: 20px;
+}
+.text_7 {
+  color: #000000;
+}
+.image_2 {
+  margin-top: 3px;
+  height: 875px;
+}
